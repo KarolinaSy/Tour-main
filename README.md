@@ -1,7 +1,1 @@
-# La primera página que hice fue la del formulario y copié tu código del menú. Para ponerle el color y el logo lo que hice fue nombrarlo todo con -formulario (logo-formulario; navbar-formulario), si quieres mantener el color y modificar sobre esa base, puedes copiar el que ponga el contenido del que ponga formulario, pegarlo al principio del css donde hiciste el index y luego ya eliminaré todos los que tengan el -formulario para que sea en header y footer igual en todas las páginas.
-# Mi parte a falta de poner el footer en todas las páginas y la tipografía, está lista. Revisa y dime si quieres que cambie algo. La tipografía he sido incapaz de ponerla... soy lela, pero no he podido, me la ha descargado, instalado en mi ordenador y luego añadía el .otf o el .tff y me salía un mensaje que no recuerdo que decía, algo que no se podía mostrar porque no era binario y cuando la buscaba para ponerla tampoco me salía... espero que tú sepas ponerla jajajaaja
-Yo mañana por la tarde no estaré en casa, xq iré al cine jajaja, pero cuando vuelva a casa reviso lo que sea. 
-Espero que haya sido leve tu jornada de trabajo.
-HE ido poniendo los colores como me han apetecido con esa base de 4 colores y a veces lo ponía un poco más oscuro o más claro.
-
-He añadido al formulario un enlace para que al dar al boton de registrarse vaya al formulario de confirmacion. 
+# Una plataforma que conecta a viajeros que buscan compañeros de viaje. Los usuarios pueden encontrar compañeros de viaje con intereses similares para aventuras compartidas
